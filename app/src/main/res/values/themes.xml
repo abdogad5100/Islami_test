@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Islami" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/primary</item>
+
+    </style>
+
+
+    <style name="BottomNavActiveIndicator" parent="">
+        <!-- اللون بتاع الدايرة -->
+        <item name="android:color">#B81F22FF</item>
+        <!-- شكل الدايرة -->
+
+    </style>
+
+
+    <style name="Theme.Islami" parent="Base.Theme.Islami" />
+</resources>

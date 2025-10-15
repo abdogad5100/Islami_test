@@ -368,4 +368,8 @@ object AppConstants {
 
         return chapterList
     }
+
+    object EXTRA {
+        val EXTRA_CHAPTER = "chapter"
+    }
 }

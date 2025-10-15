@@ -7,6 +7,7 @@ import com.example.islami.databinding.ActivityChapterDetailsBinding
 import com.example.islami.home.AppConstants
 import com.example.islami.model.Chapter
 
+//////////
 class ChapterDetailsActivity : AppCompatActivity() {
 
 

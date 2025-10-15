@@ -16,11 +16,6 @@
 
     </style>
 
-    <style name="RoundedCarouselMask">
-        <item name="cornerFamily">rounded</item>
-        <item name="cornerSize">24dp</item>
-    </style>
-
 
     <style name="Theme.Islami" parent="Base.Theme.Islami" />
 </resources>

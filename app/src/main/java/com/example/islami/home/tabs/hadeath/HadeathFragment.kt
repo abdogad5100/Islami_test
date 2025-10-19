@@ -11,7 +11,7 @@ import com.google.android.material.carousel.CarouselLayoutManager
 import com.google.android.material.carousel.CarouselSnapHelper
 import com.google.android.material.carousel.FullScreenCarouselStrategy
 
-////////////
+
 class HadeathFragment : Fragment() {
     lateinit var viewBinding: FragmentHadeathBinding
 
